@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Fredoka", sans-serif;
+    padding: 0;
+    box-sizing: border-box;
+}body{
+    background-image: url("/projeto_pizzaria/fundo-pizza2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+li{
+    list-style: none;
+}
+main {
+margin-top: 128px;
+}
